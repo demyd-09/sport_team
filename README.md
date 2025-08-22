@@ -21,7 +21,7 @@
    <img class="брахіозавр" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSobPWjJjXnI8lOHr6KOGG5uM5EV2vEhiY97s_EcSMFvybpgBydxfTCc0BfBbPNOkkf2I2dCWSxEhgLXgX9tdb0VQHpJQ9ydWzfi7s4uorUQ">
    <p> Брахіозавр — це величезний травоїдний динозавр, який жив у юрському періоді, відрізняючись довгими передніми лапами та восьмиметровою шиєю, що дозволяла діставати до верхівок дерев. Його назва означає «плечистий ящір», а на кінці довгої шиї знаходилася маленька голова з великими ніздрями на кістковому гребені вище очей. Брахіозаври могли жити групами до 20 особин, а їхня довжина сягала 26 метрів, а вага — 35-50 тонн. </p>
    <h2>д рекс</h2>
-   <img class="д рекс" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.deviantart.com%2Fw4f1q%2Fart%2FD-rex-render-edit-by-me-1214058670&psig=AOvVaw0gQ1E0zG8VvJ4tIcYjSJeE&ust=1755947812921000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOCsi8alno8DFQAAAAAdAAAAABAL">
+   <img class="д рекс" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRiGjZv7KT9O1zqF7jY7SADlAfGFk4a-2Yw&s">
    <p>Дрекс може позначати девон-рекса, кудлату породу кішок, або тиранозавра рекса, гігантського хижого динозавра, або навіть індомінуса рекса, гібридного хижака з фільму "Парк Юрського періоду</p>
 
     </main>
